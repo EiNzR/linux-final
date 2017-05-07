@@ -2,3 +2,7 @@
 Set up the git hub repository.
 5.4.'17
 Installed the linux server
+10.4.'17 
+Created some groups and users
+17.4.'17 - 5.7.'17
+Been trying to configure the network interfaces without much luck
