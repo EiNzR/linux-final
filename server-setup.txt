@@ -1,0 +1,9 @@
+// Make sure the server is up-to-date
+apt-get update
+apt-get upgrade
+reboot
+
+// Install the openssh server
+apt-get install ssh openssh-server
+
+
